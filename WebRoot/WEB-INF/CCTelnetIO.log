@@ -1,0 +1,525 @@
+2010.04.28 AD at 10:46:38 EST ===> 
+
+Contact OD 1.....
+2010.04.28 AD at 10:46:39 EST ===> java.net.ConnectException: Connection refused: connect
+2010.04.28 AD at 10:46:39 EST ===> 
+
+Contact OD 2.....
+2010.04.28 AD at 10:47:04 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:14:38 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:14:39 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:14:39 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:15:00 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:15:00 EST ===> Contact No : 0425000000
+2010.05.05 AD at 04:15:00 EST ===> Contact No : 0425000001
+2010.05.05 AD at 04:15:00 EST ===> SMS msg : testing from web portal
+2010.05.05 AD at 04:19:20 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:19:21 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:19:21 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:19:42 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:19:42 EST ===> Contact No : 0425000000
+2010.05.05 AD at 04:19:42 EST ===> Contact No : 0425000001
+2010.05.05 AD at 04:19:42 EST ===> SMS msg : log successful
+2010.05.05 AD at 04:26:16 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:26:17 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:26:17 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:26:38 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:26:38 EST ===> Contact No : 0425000000
+2010.05.05 AD at 04:26:38 EST ===> Contact No : 0425000001
+2010.05.05 AD at 04:26:38 EST ===> SMS msg : testing message final
+2010.05.05 AD at 04:30:53 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:30:54 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:30:54 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:31:15 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:31:15 EST ===> Contact No : 0425000000
+2010.05.05 AD at 04:31:15 EST ===> Contact No : 0425000001
+2010.05.05 AD at 04:31:15 EST ===> SMS msg : success!!!
+2010.05.05 AD at 04:35:14 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:35:15 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:35:15 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:35:36 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:35:36 EST ===> Contact No : 0425000000
+2010.05.05 AD at 04:35:36 EST ===> Contact No : 0425000001
+2010.05.05 AD at 04:35:36 EST ===> SMS msg : hello
+2010.05.05 AD at 04:37:58 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:37:59 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:37:59 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:38:20 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:38:20 EST ===> Contact No : 0425000000
+2010.05.05 AD at 04:38:20 EST ===> Contact No : 0425000001
+2010.05.05 AD at 04:38:20 EST ===> SMS msg : once again
+2010.05.05 AD at 04:40:11 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:40:12 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:40:12 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:40:33 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 04:40:33 EST ===> Contact No : 0425000000
+2010.05.05 AD at 04:40:33 EST ===> Contact No : 0425000001
+2010.05.05 AD at 04:40:33 EST ===> SMS msg : message
+2010.05.05 AD at 04:55:39 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 04:55:40 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 04:55:40 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 04:56:01 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 05:09:02 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 05:09:03 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 05:09:03 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 05:10:13 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 05:10:14 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 05:10:14 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 05:11:21 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 05:11:22 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 05:11:22 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 05:13:11 EST ===> 
+
+Contact OD 1.....
+2010.05.05 AD at 05:13:12 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.05 AD at 05:13:12 EST ===> 
+
+Contact OD 2.....
+2010.05.05 AD at 05:13:33 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.05 AD at 05:13:33 EST ===> Contact No : 0425000000
+2010.05.05 AD at 05:13:33 EST ===> Contact No : 0425000001
+2010.05.05 AD at 05:13:33 EST ===> SMS msg : last for today
+2010.05.06 AD at 09:06:19 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:06:20 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:06:20 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:06:41 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:06:41 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:06:41 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:06:41 EST ===> SMS msg : hello from web ccpaging portal
+
+2010.05.06 AD at 09:07:57 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:07:58 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:07:58 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:08:19 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:08:19 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:08:19 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:08:19 EST ===> SMS msg : web portal
+
+2010.05.06 AD at 09:14:48 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:14:49 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:14:49 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:15:10 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:15:10 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:15:10 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:15:10 EST ===> SMS msg : portal
+
+2010.05.06 AD at 09:15:28 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:15:29 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:15:29 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:15:50 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:15:50 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:15:50 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:15:50 EST ===> SMS msg : hello here aosidhaioh ;lfnaboi'cnq;lbciubLKAUGo;irbr 
+fhoaIFQRF;
+ASFH9RFHQPF
+QFJFT[
+WP[ETWQ
+JG9R[T
+UF98RJT
+[PBAE
+IOWUERWIJ
+
+2010.05.06 AD at 09:16:45 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:16:45 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:16:45 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:16:59 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:17:00 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:17:00 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:17:06 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:17:06 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:17:06 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:17:06 EST ===> SMS msg : 		<td><div align="left"><span class="style19">Message</span></div></td>
+		<td>
+		<textarea name="message" id ="message" wrap="physical" rows="3" cols="40" onk
+2010.05.06 AD at 09:17:21 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:17:21 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:17:21 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:17:21 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 09:18:12 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:18:13 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:18:13 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:18:34 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:18:34 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:18:34 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:18:34 EST ===> SMS msg : 		<td><div align="left"><span class="style19">Message</span></div></td>
+		<td>
+		<textarea name="message" id ="message" wrap="physical" rows="3" cols="40" onk
+2010.05.06 AD at 09:19:37 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:19:38 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:19:38 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:19:59 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:19:59 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:19:59 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:19:59 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+
+2010.05.06 AD at 09:21:34 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:21:35 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:21:35 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:21:56 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:21:56 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:21:56 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:21:56 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 09:25:01 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:25:02 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:25:02 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:25:23 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:25:23 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:25:23 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:25:23 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 09:28:57 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 09:28:57 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 09:28:57 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 09:29:18 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 09:29:18 EST ===> Contact No : 0425000000
+2010.05.06 AD at 09:29:18 EST ===> Contact No : 0425000001
+2010.05.06 AD at 09:29:19 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 10:28:06 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 10:28:07 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 10:28:07 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 10:30:37 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 10:30:38 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 10:30:38 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 10:30:59 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 10:30:59 EST ===> Contact No : 0425000000
+2010.05.06 AD at 10:30:59 EST ===> Contact No : 0425000001
+2010.05.06 AD at 10:30:59 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+
+
+
+------------------------------------------------------------
+2010.05.06 AD at 10:42:20 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 10:42:21 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 10:42:21 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 10:42:42 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 10:42:42 EST ===> Contact No : 0425000000
+2010.05.06 AD at 10:42:42 EST ===> Contact No : 0425000001
+2010.05.06 AD at 10:42:42 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 11:13:24 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 11:13:25 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 11:13:25 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 11:13:46 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 11:13:46 EST ===> Contact No : 0425000000
+2010.05.06 AD at 11:13:46 EST ===> Contact No : 0425000001
+2010.05.06 AD at 11:13:46 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 12:46:36 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 12:46:37 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 12:46:37 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 12:46:58 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 12:46:58 EST ===> Contact No : 0425000000
+2010.05.06 AD at 12:46:58 EST ===> Contact No : 0425000001
+2010.05.06 AD at 12:46:58 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 12:51:49 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 12:51:50 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 12:51:50 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 12:52:01 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 12:52:02 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 12:52:02 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 12:52:11 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 12:52:11 EST ===> Contact No : 0425000000
+2010.05.06 AD at 12:52:11 EST ===> Contact No : 0425000001
+2010.05.06 AD at 12:52:11 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+
+2010.05.06 AD at 12:52:23 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 12:53:10 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 12:53:11 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 12:53:11 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 12:53:32 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 12:54:23 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 12:54:24 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 12:54:24 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 12:54:45 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 12:55:00 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 12:55:01 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 12:55:01 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 12:55:22 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 12:55:22 EST ===> Contact No : 0425000000
+2010.05.06 AD at 12:55:22 EST ===> Contact No : 0425000001
+2010.05.06 AD at 12:55:22 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 01:21:33 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:21:35 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:21:35 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:24:32 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:24:35 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:24:36 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:25:06 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:25:07 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:25:07 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:25:28 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:26:48 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:26:49 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:26:49 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:27:10 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:29:01 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:29:02 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:29:02 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:29:23 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:29:23 EST ===> Contact No : 0425000000
+2010.05.06 AD at 01:29:23 EST ===> Contact No : 0425000001
+2010.05.06 AD at 01:29:23 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 01:44:58 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:44:59 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:44:59 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:47:24 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:47:25 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:47:25 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:47:46 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:47:46 EST ===> Contact No : 0425000000
+2010.05.06 AD at 01:47:46 EST ===> Contact No : 0425000001
+2010.05.06 AD at 01:47:46 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 01:48:48 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:48:49 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:48:49 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:49:10 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:49:10 EST ===> Contact No : 0425000000
+2010.05.06 AD at 01:49:10 EST ===> Contact No : 0425000001
+2010.05.06 AD at 01:49:10 EST ===> SMS msg : Command Center Paging System
+
+
+This site can only be viewed and used by Command Center.
+
+2010.05.06 AD at 01:50:10 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:50:11 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:50:11 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:50:32 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:50:32 EST ===> Contact No : 0425000000
+2010.05.06 AD at 01:50:32 EST ===> Contact No : 0425000001
+2010.05.06 AD at 01:50:32 EST ===> SMS msg : time testing
+2010.05.06 AD at 01:51:24 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:51:25 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:51:25 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:51:46 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:51:46 EST ===> Contact No : 0425000000
+2010.05.06 AD at 01:51:46 EST ===> Contact No : 0425000001
+2010.05.06 AD at 01:51:46 EST ===> SMS msg : Command Center Paging System
+
+2010.05.06 AD at 01:53:30 EST ===> 
+
+Contact OD 1.....
+2010.05.06 AD at 01:53:31 EST ===> java.net.ConnectException: Connection refused: connect
+2010.05.06 AD at 01:53:31 EST ===> 
+
+Contact OD 2.....
+2010.05.06 AD at 01:53:52 EST ===> java.net.ConnectException: Connection timed out: connect
+2010.05.06 AD at 01:53:52 EST ===> Contact No : 0425000000
+2010.05.06 AD at 01:53:52 EST ===> Contact No : 0425000001
+2010.05.06 AD at 01:53:52 EST ===> SMS msg : Command Center Paging System
